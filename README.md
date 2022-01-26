@@ -8,6 +8,10 @@
 ## About
 We provide a notebook which shows how to import the IITB English-Hindi Parallel Corpus from the HuggingFace datasets repository. The notebook also shows how to segment the coprus using BPE tokenization which can be used to train a English-Hindi MT System.
 
+The IIT Bombay English-Hindi corpus contains parallel corpus for English-Hindi as well as monolingual Hindi corpus collected from a variety of existing sources and corpora developed at the Center for Indian Language Technology, IIT Bombay over the years. This page describes the corpus. This corpus has been used at the Workshop on Asian Language Translation Shared Task since 2016 the Hindi-to-English and English-to-Hindi languages pairs and as a pivot language pair for the Hindi-to-Japanese and Japanese-to-Hindi language pairs.
+
+The complete details of this corpus are available at [this URL](https://www.cfilt.iitb.ac.in/iitb_parallel/). We also provide this parallel corpus via browser download from the same URL. We also provide a monolingual Hindi corpus on the same URL.  
+
 ### Recent Updates
 * Version 3.1 - December 2021 - Added 49,400 sentence pairs to the parallel corpus.
 * Version 3.0 - August 2020 - Added ~47,000 sentence pairs to the parallel corpus.
