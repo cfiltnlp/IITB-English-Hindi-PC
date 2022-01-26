@@ -1,5 +1,9 @@
 # IITB-English-Hindi Parallel Corpus 
 
+[![GitHub issues](https://img.shields.io/github/issues/cfiltnlp/IITB-English-Hindi-PC?style=flat-square)](https://github.com/cfiltnlp/IITB-English-Hindi-PC/issues)
+[![GitHub forks](https://img.shields.io/github/forks/cfiltnlp/IITB-English-Hindi-PC?style=flat-square)](https://github.com/cfiltnlp/IITB-English-Hindi-PC/network)
+[![GitHub stars](https://img.shields.io/github/stars/cfiltnlp/IITB-English-Hindi-PC?style=flat-square)](https://github.com/cfiltnlp/IITB-English-Hindi-PC/stargazers)
+
 ## About
 We provide a notebook which shows how to import the IITB English-Hindi Parallel Corpus from the HuggingFace datasets repository. The notebook also shows how to segment the coprus using BPE tokenization which can be used to train a English-Hindi MT System.
 
