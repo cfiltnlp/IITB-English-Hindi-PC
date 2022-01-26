@@ -8,6 +8,9 @@
 ## About
 We provide a notebook which shows how to import the IITB English-Hindi Parallel Corpus from the HuggingFace datasets repository. The notebook also shows how to segment the coprus using BPE tokenization which can be used to train a English-Hindi MT System.
 
+### Recent Update
+Version 3.1 - December 2021 - Added 49,400 sentence pairs to the parallel corpus.
+
 ## Usage
 
 You should have the 'datasets' packages installed to be able to use the :rocket: HuggingFace datasets repository. Please use the following command and install via pip:
@@ -20,7 +23,6 @@ You can choose to tokenize it the way shown in the notebook, or use any other to
 
 ## Other
 You can find a catalogue of other English-Hindi and other Indian language parallel corpora here: [Indic NLP Catalog](https://github.com/indicnlpweb/indicnlp_catalog)
-Version 3.1 - December 2021 - Added 49,400 sentence pairs to the parallel corpus.
 
 ## Cite
 
