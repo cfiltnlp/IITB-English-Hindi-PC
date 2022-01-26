@@ -1,1 +1,3 @@
-# IITB-English-Hindi
+# IITB-English-Hindi Parallel Corpus 
+
+## Usage
