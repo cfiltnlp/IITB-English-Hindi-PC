@@ -8,8 +8,9 @@
 ## About
 We provide a notebook which shows how to import the IITB English-Hindi Parallel Corpus from the HuggingFace datasets repository. The notebook also shows how to segment the coprus using BPE tokenization which can be used to train a English-Hindi MT System.
 
-### Recent Update
-Version 3.1 - December 2021 - Added 49,400 sentence pairs to the parallel corpus.
+### Recent Updates
+* Version 3.1 - December 2021 - Added 49,400 sentence pairs to the parallel corpus.
+* Version 3.0 - August 2020 - Added ~47,000 sentence pairs to the parallel corpus.
 
 ## Usage
 
