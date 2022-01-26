@@ -29,12 +29,12 @@ You can choose to tokenize it the way shown in the notebook, or use any other to
 ## Other
 You can find a catalogue of other English-Hindi and other Indian language parallel corpora here: [Indic NLP Catalog](https://github.com/indicnlpweb/indicnlp_catalog)
 
-## Cite
+## Citation
 
 If you use this corpus or its derivate resources for your research, kindly cite it as follows:
 Anoop Kunchukuttan, Pratik Mehta, Pushpak Bhattacharyya. The IIT Bombay English-Hindi Parallel Corpus. Language Resources and Evaluation Conference. 2018.
 
-BiBTeX:
+### BiBTeX Citation
 ```latex
 @inproceedings{kunchukuttan-etal-2018-iit,
     title = "The {IIT} {B}ombay {E}nglish-{H}indi Parallel Corpus",
