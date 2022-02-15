@@ -21,7 +21,7 @@ The complete details of this corpus are available at [this URL](https://www.cfil
 You should have the 'datasets' packages installed to be able to use the :rocket: HuggingFace datasets repository. Please use the following command and install via pip:
 
 ```code
-   pip install dataasets
+   pip install datasets
 ```
 In the notebook, we also provide the code to create Byte-pair encoding segmented version of this corpus.
 You can choose to tokenize it the way shown in the notebook, or use any other tokenization which also supports the Hindi language.
