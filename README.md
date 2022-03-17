@@ -1,3 +1,7 @@
+<p align="center"><img src="logo.jpg" alt="logo" width="80" height="80"/></p>
+
+<hr/>
+
 # IITB-English-Hindi Parallel Corpus 
 
 [![GitHub issues](https://img.shields.io/github/issues/cfiltnlp/IITB-English-Hindi-PC?style=flat-square)](https://github.com/cfiltnlp/IITB-English-Hindi-PC/issues)
