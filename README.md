@@ -33,6 +33,11 @@ You can choose to tokenize it the way shown in the notebook, or use any other to
 ## Other
 You can find a catalogue of other English-Hindi and other Indian language parallel corpora here: [Indic NLP Catalog](https://github.com/indicnlpweb/indicnlp_catalog)
 
+## Maintainer(s)
+
+[Diptesh Kanojia](https://dipteshkanojia.github.io)<br/>
+Shivam Mhasker
+
 ## Citation
 
 If you use this corpus or its derivate resources for your research, kindly cite it as follows:
