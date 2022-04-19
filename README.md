@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/cfiltnlp/IITB-English-Hindi-PC?style=flat-square)](https://github.com/cfiltnlp/IITB-English-Hindi-PC/issues)
 [![GitHub forks](https://img.shields.io/github/forks/cfiltnlp/IITB-English-Hindi-PC?style=flat-square)](https://github.com/cfiltnlp/IITB-English-Hindi-PC/network)
 [![GitHub stars](https://img.shields.io/github/stars/cfiltnlp/IITB-English-Hindi-PC?style=flat-square)](https://github.com/cfiltnlp/IITB-English-Hindi-PC/stargazers)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%20--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%20--SA%204.0.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cfiltnlp?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/cfiltnlp)
 [![Twitter Follow](https://img.shields.io/twitter/follow/PeopleCentredAI?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/PeopleCentredAI)
 
