@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.jpg" alt="logo" width="80" height="80"/></p>
+<p align="center"><img src="cfilt-dark-logo.png.jpg" alt="logo" width="150" height="150"/></p>
 
 # IITB-English-Hindi Parallel Corpus 
 
